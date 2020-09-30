@@ -3,8 +3,7 @@ https://ithelp.ithome.com.tw/articles/10216236
 
 這個程式可以用來獲得 LINE 官方帳號好友的 user id
 
-聊天機器人的 qr code:
-<img src="https://qr-official.line.me/sid/L/755qerhg.png"></img>
+聊天機器人的 qr code: https://qr-official.line.me/sid/L/755qerhg.png
 
 # 使用方法:
 
